@@ -24,7 +24,7 @@ const references: Reference[] = [
   {
     id: 2,
     name: "CHARLES DZADU",
-    profession: { fr: "DIRECTEUR DE L'INGENIEURIE CHEZ EDOMATCH", en: "ENGENIEURING MANAGER AT EDOMATCH" },
+    profession: { fr: "MANAGER DE L'EQUIPE TECH CHEZ EDOMATCH", en: "LEAD SOFTWARE ENGINEER AT EDOMATCH" },
     phone: "+228 92 56 99 18",
     linkedin: "https://linkedin.com/in/charlesdzadu",
     image: "/references/Ref.2.png",
