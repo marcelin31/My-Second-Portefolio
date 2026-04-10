@@ -13,22 +13,7 @@ interface Certification {
 }
 
 const certifications: Certification[] = [
-  {
-    id: 1,
-    title: { fr: "Brevet d'Etude du Premier Cycle", en: "First Cycle Study Certificate" },
-    date: "2020",
-    place: { fr: "Lycée Atitsohoé-Djékloé", en: "Atitsohoé-Djékloé high school" },
-    image: "/certifications/RELEVE_BEPC_MARCELIN.KOTCHE.jpeg",
-    pdfUrl: "/certifications/RELEVE_BEPC_MARCELIN.KOTCHE.pdf",
-  },
-  {
-    id: 2,
-    title: { fr: "Baccalauréat", en: "Baccalaureate" },
-    date: "2023",
-    place: { fr: "Lycée titsohoé-Djékloé", en: "Atitsohoé-Djékloé high school" },
-    image: "/certifications/ATTESTATION_BAC _MARCELIN_KOTCHE.jpeg",
-    pdfUrl: "/certifications/ATTESTATION_BAC _MARCELIN_KOTCHE .pdf",
-  },
+
   {
     id: 3,
     title: { fr: "Attestation Camp Nehemiah Education", en: "Nehemiah Education Camp Certificate" },
